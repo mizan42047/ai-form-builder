@@ -29,7 +29,7 @@ const CreateForm = () => {
 
     <div className="create-form-page">
         <div class="create-form-container">
-          <h3 className="create-form-title">How would you like to create a new form?</h3>
+          <h1 className="create-form-title">How would you like to create a new form?</h1>
           <div className="create-form-options">
               <div className="create-form-option">
                   <div className="create-form-option-title">Build Form From Scratch</div>
