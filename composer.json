@@ -1,0 +1,25 @@
+{
+    "name": "sigmative/ai-form-builder",
+    "description": "AI Form Builder is a WordPress plugin that allows users to create forms using AI technology. It provides an intuitive interface for building forms quickly and easily, with features such as drag-and-drop functionality, pre-built templates, and customizable fields.",
+    "keywords": [
+        "wordpress",
+        "plugin",
+        "form-builder",
+        "ai",
+        "artificial-intelligence"
+    ],
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "AIFormBuilder\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sigmative"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
